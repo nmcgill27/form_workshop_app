@@ -6,7 +6,6 @@
     "start": "next start"
   },
   "dependencies": {
-<<<<<<< HEAD
     "@tailwindcss/forms": "^0.5.7",
     "clsx": "^2.0.0",
     "formidable": "^3.5.1",
@@ -14,25 +13,16 @@
     "next": "latest",
     "node": "^21.2.0",
     "npm": "^10.2.5",
-=======
-    "mongodb": "^4.8.1",
-    "next": "latest",
->>>>>>> 240469f (Initial commit from Create Next App)
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-<<<<<<< HEAD
     "@types/formidable": "^3.4.5",
     "@types/node": "18.7.5",
     "@types/react": "16.9.17",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.32",
     "tailwindcss": "^3.3.7",
-=======
-    "@types/node": "18.7.5",
-    "@types/react": "16.9.17",
->>>>>>> 240469f (Initial commit from Create Next App)
     "typescript": "4.6.3"
   }
 }
